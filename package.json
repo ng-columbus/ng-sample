@@ -17,8 +17,8 @@
   },
   "dependencies": {
     "angular2": "^2.0.0-alpha.37",
-    "es6-module-loader": "^0.17.7",
-    "systemjs": "^0.18.17",
+    "es6-module-loader": "^0.16.0",
+    "systemjs": "^0.16.0",
     "traceur": "0.0.91"
   }
 }
