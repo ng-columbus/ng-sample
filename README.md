@@ -2,8 +2,9 @@
 
 Sample of an Angular 2 build environment
 
-This project is one of many ways of programming with AngularJS 2. It utilizes the JSPM library to
-manage dependencies, and the 
+This project is one of many ways of programming with AngularJS 2. It uses TypeScript for its
+programming language.
+
 
 ## Build
 
