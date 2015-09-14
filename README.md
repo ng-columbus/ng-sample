@@ -37,9 +37,16 @@ live-server --open=src
 
 ## Dependencies
 
-None
+- [angular2](https://github.com/git+https:/): Angular 2 - a web framework for modern web apps
+- [es6-module-loader](https://github.com/git+https:/): An ES6 Module Loader shim
+- [systemjs](https://github.com/systemjs/systemjs): System loader extension for flexible AMD &amp; CommonJS support
+- [traceur](https://github.com/git+https:/): ES6 to ES5 compiler
+
+## Dev Dependencies
+
+- [live-server](https://github.com/git+https:/): simple development http server with live reload capability
+
 
 ## License
 
 MIT
-
