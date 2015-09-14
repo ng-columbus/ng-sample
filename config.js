@@ -23,10 +23,10 @@ System.config( {
         "zone.js": "npm:zone.js@0.5.5",
         "github:jspm/nodelibs-assert@0.1.0": {
             "assert": "npm:assert@1.3.0"
-        },
+    },
         "github:jspm/nodelibs-buffer@0.1.0": {
             "buffer": "npm:buffer@3.4.3"
-        },
+    },
         "github:jspm/nodelibs-constants@0.1.0": {
             "constants-browserify": "npm:constants-browserify@0.0.1"
         },
@@ -284,6 +284,6 @@ System.config( {
         "npm:zone.js@0.5.5": {
             "es6-promise": "npm:es6-promise@3.0.2",
             "process": "github:jspm/nodelibs-process@0.1.1"
-        }
+    }
     }
 } );

@@ -4,7 +4,7 @@
   "description": "Sample of an Angular 2 build environment",
   "main": "app.js",
   "scripts": {
-    "watch": "tsc -w"
+    "package": "jspm bundle src/app dist/main.min.js --minify"
   },
   "repository": {
     "type": "git",
