@@ -4,7 +4,8 @@
   "description": "Sample of an Angular 2 build environment",
   "main": "app.js",
   "scripts": {
-    "package": "jspm bundle src/app dist/main.min.js --minify"
+    "package": "jspm bundle src/app dist/main.min.js --minify",
+    "serve": "live-server"
   },
   "repository": {
     "type": "git",
