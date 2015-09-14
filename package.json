@@ -1,0 +1,31 @@
+{
+  "name": "ng2-sample",
+  "version": "1.0.0",
+  "description": "Sample of an Angular 2 build environment",
+  "main": "app.js",
+  "scripts": {
+    "watch": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ng-columbus/ng-sample"
+  },
+  "author": "Jim Cook <jcook@transcordia.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jspm": "^0.16.2",
+    "live-server": "^0.8.1"
+  },
+  "jspm": {
+    "directories": {},
+    "dependencies": {
+      "angular2": "npm:angular2@^2.0.0-alpha.37",
+      "es6-shim": "github:es-shims/es6-shim@^0.33.3",
+      "reflect-metadata": "npm:reflect-metadata@^0.1.1",
+      "zone.js": "npm:zone.js@^0.5.5"
+    },
+    "devDependencies": {
+      "typescript": "npm:typescript@^1.6.0-dev.20150818"
+    }
+  }
+}
